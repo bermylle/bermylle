@@ -3,10 +3,6 @@
 </h1>
 
 <p align='center'>
-  A software developer who is graduating from University of the Philippines Manila
-</p>
-
-<p align='center'>
   
   <a href="https://www.linkedin.com/in/bermylle-john-razon-1116b4196/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
